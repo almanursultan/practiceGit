@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("It's thursday");
         System.out.println("This is my second changeg");
     }
+    // this is the code which was added by another developer
 }
 
